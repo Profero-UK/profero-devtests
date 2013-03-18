@@ -8,7 +8,7 @@ This GitHub repository contains the tests, assets and instructions for various t
 
 You should have been informed which technology tests (at which level) are required, and which to submit.
 
-You should download the <kbd>&lt;</kbd></kbd>technology<kbd>&gt;</kbd>\_<kbd>&lt;</kbd>level<kbd>&gt;</kbd>.zip as instructed,
+You should download the &lt;technology&gt;\_&lt;level&gt;.zip as instructed,
 e.g: js\_junior.zip to get each test individually to avoid downloading all the tests, zips and source in one go.
 
 ### Repository Structure  ###
@@ -34,7 +34,7 @@ Tests should be submitted in zip file format. Each technology tested should be c
 into a single file. The layout zip file should contains sub folders for each test, and 
 each folder should be self-contained and contain any required code, assets and files.
 
-Files should be named using the following format: <kbd>&lt;</kbd>last name<kbd>&gt;</kbd>\_<kbd>&lt;</kbd>first name<kbd>&gt;</kbd>_<kbd>&lt;</kbd>technology<kbd>&gt;</kbd>\_<kbd>&lt;</kbd>level<kbd>&gt;</kbd>.zip, 
+Files should be named using the following format: &lt;last name&gt;\_&lt;first name&gt;_&lt;technology&gt;\_&lt;level&gt;.zip, 
 i.e bloggs\_joe\_js\_junior.zip.
 
 Zips can either be emailed to your recruiter, representive or directly to Profero, depending 
