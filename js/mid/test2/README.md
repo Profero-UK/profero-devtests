@@ -37,4 +37,4 @@ I you would like to use a JQuery, you may use JQuery from Google's CDN
 
 ### Expected Response ###
 
-You should provide 3 files, index.html, site.js & site.css, and a README.md file outlining your approach.
+You should provide 3 source files, index.html, site.js & site.css, as as a README.md file outlining your approach.
