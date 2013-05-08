@@ -2,7 +2,7 @@
 
 ### Test Overview ###
 
-Using the twitter API [http://dev.twitter.com/](http://dev.twitter.com/) build a 
+Use the twitter API [http://dev.twitter.com/](http://dev.twitter.com/) build a 
 grid of tweets as per the provided "wireframe.png":
 
 ![Twitter Grid](wireframe.png "Twitter Grid Layout")
@@ -32,7 +32,7 @@ I you would like to use a JQuery, you may use JQuery from Google's CDN
 * Detecting image links, making the tweets 'background' the dynamic image.
 * Pagination using Twitter Pages, with a Page x of x indicator.
 * Lazy loading more tweets using Twitter's pagination library
-* Fault tolerance and messaging around twitter 'system down' messages and other non-standard responses.
+* Fault tolerance and messaging around twitter empty fields.
 * Adaptive CSS, i.e: dropping 2 columns on tablets and 1 on mobile.
 
 ### Expected Response ###
