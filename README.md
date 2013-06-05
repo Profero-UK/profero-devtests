@@ -1,10 +1,10 @@
-# Profeo London: Technology Tests #
+# Profero London: Technology Tests #
 
 This GitHub repository contains the tests, assets and instructions for various technologies.
 
 ## General Instructions ##
 
-### Retreaving a Test ###
+### Retrieving a Test ###
 
 You should have been informed which technology tests (at which level) are required, and which to submit.
 
