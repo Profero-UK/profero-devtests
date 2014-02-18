@@ -1,4 +1,4 @@
-/* YOU CLASS GOES HERE */
+/* YOU 'CLASS' GOES HERE */
 
 /* SORT ARRAY */
 function sortArray( unsortedArray ){
