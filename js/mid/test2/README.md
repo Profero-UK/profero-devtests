@@ -2,7 +2,7 @@
 
 ### Test Overview ###
 
-Use the twitter API [http://dev.twitter.com/](http://dev.twitter.com/) build a 
+Use the provided JSON file (mock.json) to build a 
 grid of tweets as per the provided "wireframe.png":
 
 ![Twitter Grid](wireframe.png "Twitter Grid Layout")
@@ -27,6 +27,7 @@ I you would like to use a JQuery, you may use JQuery from Google's CDN
 ### Bonus Points ###
 
 * "Loading Screen"
+* Use of the twitter API [http://dev.twitter.com/](http://dev.twitter.com/) instead of the mock json file
 * Human dates, i.e 2 minutes ago, 2 hours ago, 10 days ago
 * Nice animations and tweens
 * Detecting image links, making the tweets 'background' the dynamic image.
