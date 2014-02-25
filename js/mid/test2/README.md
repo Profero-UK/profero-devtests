@@ -38,4 +38,4 @@ I you would like to use a JQuery, you may use JQuery from Google's CDN
 
 ### Expected Response ###
 
-You should provide 3 source files, index.html, site.js & site.css, as as a README.md file outlining your approach.
+You should provide 4 source files, index.html, site.js, mock.json & site.css, as well as a README.md file outlining your approach.
